@@ -117,7 +117,7 @@ export default function SignupPage() {
                     Young CEO Entertainment is a platform for local street artists, rappers, musicians, and beat producers
                     to empower them to become their own CEOs and bring them to major audio streaming platforms like Spotify,
                     Apple Music, JioSaavn, etc. We promise you all your royalties would be kept by you (100% percent). We
-                    don't charge from Anyone's Art. Popular streaming platforms like these do not work with artists directly,
+                    don&apos;t charge from Anyone&apos;s Art. Popular streaming platforms like these do not work with artists directly,
                     they only work with distribution companies. That is where we come into the picture. We enable artists to
                     leave the hassles of distribution to us and focus more on their art & creativity!
                   </p>

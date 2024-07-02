@@ -1,0 +1,74 @@
+/* reset-password.css */
+
+.reset-password-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: black;
+}
+
+.reset-password-box {
+  background-color: #333;
+  border-radius: 8px;
+  padding: 2rem;
+  text-align: center;
+  width: 95%; /* Increased box width by 5% */
+  max-width: 450px; /* Adjusted max-width for responsiveness */
+  color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.reset-icon-container {
+  display: flex;
+  justify-content: center;
+  align-items: center; /* Center vertically */
+  margin-bottom: 1rem; /* Adjust margin as needed */
+  height: 80px; /* Set a fixed height for icon container */
+}
+
+.reset-icon {
+  font-size: 3rem; /* Increased icon size */
+}
+
+h2 {
+  margin-bottom: 1rem;
+}
+
+.reset-input {
+  width: 100%;
+  padding: 0.75rem;
+  margin-bottom: 1rem;
+  border: none;
+  border-radius: 4px;
+  color: #333; /* Text color */
+  background-color: #eee; /* Light background color */
+}
+
+.reset-input::placeholder {
+  color: #666; /* Placeholder text color */
+}
+
+.reset-button {
+  background-color: #000;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 0.75rem;
+  width: 100%;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.reset-button:hover {
+  background-color: #444;
+}
+
+.reset-text {
+  margin-top: 1rem; /* Added margin to separate from the button */
+}
+
+.reset-link {
+  color: #0d6efd; /* Bootstrap primary color */
+  text-decoration: none;
+}
